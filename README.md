@@ -55,7 +55,7 @@ Submitted Text: "I am happy today, but I was sad yesterday."
 
 **Word Dictionary**
 
-The dictionary is structured as a JSON object with four categories: "positive_emotion," "negative_emotion," "social," and "cognitive." Each category contains a list of at least 50 words to meet the requirement of 200 words total.
+The dictionary is structured as a JSON object with four categories: "positive_emotion," "negative_emotion," "social," and "cognitive." Each category contains a list of at least 50 words.
 
 {
   "positive_emotion": [
